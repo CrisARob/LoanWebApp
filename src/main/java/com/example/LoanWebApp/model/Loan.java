@@ -60,4 +60,6 @@ public class Loan {
     public double getAmountToRepay() {
         return Math.round(amountToRepay * 100.0) / 100.0;
     }
+
+
 }
